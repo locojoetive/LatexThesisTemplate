@@ -1,0 +1,16 @@
+\chapter{Limitations and Future Work}
+In this section we will introduce limitations and potential extensions of Paper Fighter application. First we will introduce major difficulties in this section we encountered during the development process. Subsequently, ideas that could enhance the quality of the application, like adding the concept of free shapes and hinges to the application, and enabling the levels to be accessible online.
+
+\section{Positioning of GameObjects}
+Due to not being able to access the graphical properties of our modeled elements it is not possible to set the components position by dragging and dropping them where the user wants them to be, but instead has to set the position in the properties view. Moreover, it is not possible for the user to see the actual position directly by looking at their visualisation. By adding this features the application will increase its usability and will even make it possible for children to use it.
+
+\section{Simulation to Model}
+Simulating the model does not work properly, due to difficulties of getting and modifying the graphical properties of the model elements inside of other model elements. They cannot visualize the properties of the simulated GameObjects. Furthermore, the ontological level for live execution of our simulation cannot be accessed. We will correct and extend the methods of PaperSimulation.java, contained in our plug-in in the near future. Moreover, if the connection between the server and client is lost, Melanee has to be restarted, if a new connection wants to be initialized.
+
+\section{Parallelizing (2 Player)}
+By extending the number of threads the implemented server offers it would be possible for several players to perform model simulation. The model would then be extended in its execution level O3 by an additional copy of the stage. This enables parallel model simulation from one machine. Furthermore, the game could be extended to have two or more players in one level so they can help each other and complete a stage together
+
+\section{FreeShape and Rotation of Objects}
+A GUI for creating all kind of GameObjects is also implemented and contained inside the plug-in. Giving the Visulizer Editor of Melanee the power to add free shapes which contain pixels into the model would support this feature. Other than that the visualisation of line-components inside the model would be enhanced.
+Unity is able to calculate a lot of information out of its existing GameObjects and shapes. Melanee's Visualization Editor could be extended in a way that it rotates its objects. By having a rotation property, entities and instances get a new dimension in visual illustrated simulation modelling which could be useful in a different context.
+Both of these extensions could be done by integrating a framework like the Batik SVG Toolkit from Apache, which not only allows displaying, generation and manipulation of SVG files, but makes these accessible for Java applications.

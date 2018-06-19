@@ -1,0 +1,40 @@
+\select@language {english}
+\select@language {english}
+\contentsline {chapter}{\nonumberline Abstract}{iii}{chapter*.1}
+\contentsline {chapter}{\nonumberline List of Figures}{vii}{chapter*.3}
+\contentsline {chapter}{List of Abbreviations}{viii}{chapter*.3}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Organisation}{1}{section.1.2}
+\contentsline {chapter}{\numberline {2}Foundations}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Model-Driven Software Development}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Deep Modelling}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}The Eclipse Project and PDE}{6}{section.2.3}
+\contentsline {section}{\numberline {2.4}Eclipse Modeling Framework}{6}{section.2.4}
+\contentsline {section}{\numberline {2.5}Graphical Modeling Framework}{7}{section.2.5}
+\contentsline {section}{\numberline {2.6}Melanee}{7}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}The Level-agnostic Modeling Language and its Editor}{8}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Extension Points and Extensions}{9}{subsection.2.6.2}
+\contentsline {section}{\numberline {2.7}Unity and the Unity Editor}{9}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}Animator}{9}{subsection.2.7.1}
+\contentsline {chapter}{\numberline {3}Paper Fighters}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}The Paper Fighter Client}{11}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}The StageManager and NetworkClient}{12}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Stage Components}{13}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Paper Painter Plug-in}{14}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Server Socket}{17}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}PaperSimulation}{17}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Paper Model}{19}{section.3.3}
+\contentsline {chapter}{\numberline {4}Related Work}{21}{chapter.4}
+\contentsline {section}{\numberline {4.1}Eine Deep-Model-Basierte Echtzeitsimulation}{21}{section.4.1}
+\contentsline {section}{\numberline {4.2}Automatic Prototyping In Model-Driven Game Development\cite {reyno2009automatic}}{21}{section.4.2}
+\contentsline {section}{\numberline {4.3}Super Mario Maker\cite {NIN}}{22}{section.4.3}
+\contentsline {section}{\numberline {4.4}Ultimate Chicken Horse\cite {CEG}}{22}{section.4.4}
+\contentsline {chapter}{\numberline {5}Limitations and Future Work}{23}{chapter.5}
+\contentsline {section}{\numberline {5.1}Positioning of GameObjects}{23}{section.5.1}
+\contentsline {section}{\numberline {5.2}Simulation to Model}{23}{section.5.2}
+\contentsline {section}{\numberline {5.3}Parallelizing (2 Player)}{24}{section.5.3}
+\contentsline {section}{\numberline {5.4}FreeShape and Rotation of Objects}{24}{section.5.4}
+\contentsline {chapter}{\numberline {6}Conclusion}{25}{chapter.6}
+\contentsline {chapter}{\numberline {7}Implementierung}{27}{chapter.7}
+\contentsline {chapter}{\nonumberline Bibliography}{29}{chapter*.4}

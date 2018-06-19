@@ -1,0 +1,38 @@
+\BOOKMARK [0][-]{chapter*.1}{Abstract}{}% 1
+\BOOKMARK [0][-]{chapter*.3}{List of Figures}{}% 2
+\BOOKMARK [0][-]{chapter*.3}{List of Abbreviations}{}% 3
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 4
+\BOOKMARK [1][-]{section.1.1}{Motivation}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.2}{Organisation}{chapter.1}% 6
+\BOOKMARK [0][-]{chapter.2}{Foundations}{}% 7
+\BOOKMARK [1][-]{section.2.1}{Model-Driven Software Development}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.2}{Deep Modelling}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.3}{The Eclipse Project and PDE}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.4}{Eclipse Modeling Framework}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.5}{Graphical Modeling Framework}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.6}{Melanee}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.6.1}{The Level-agnostic Modeling Language and its Editor}{section.2.6}% 14
+\BOOKMARK [2][-]{subsection.2.6.2}{Extension Points and Extensions}{section.2.6}% 15
+\BOOKMARK [1][-]{section.2.7}{Unity and the Unity Editor}{chapter.2}% 16
+\BOOKMARK [2][-]{subsection.2.7.1}{Animator}{section.2.7}% 17
+\BOOKMARK [0][-]{chapter.3}{Paper Fighters}{}% 18
+\BOOKMARK [1][-]{section.3.1}{The Paper Fighter Client}{chapter.3}% 19
+\BOOKMARK [2][-]{subsection.3.1.1}{The StageManager and NetworkClient}{section.3.1}% 20
+\BOOKMARK [2][-]{subsection.3.1.2}{Stage Components}{section.3.1}% 21
+\BOOKMARK [1][-]{section.3.2}{Paper Painter Plug-in}{chapter.3}% 22
+\BOOKMARK [2][-]{subsection.3.2.1}{Server Socket}{section.3.2}% 23
+\BOOKMARK [2][-]{subsection.3.2.2}{PaperSimulation}{section.3.2}% 24
+\BOOKMARK [1][-]{section.3.3}{Paper Model}{chapter.3}% 25
+\BOOKMARK [0][-]{chapter.4}{Related Work}{}% 26
+\BOOKMARK [1][-]{section.4.1}{Eine Deep-Model-Basierte Echtzeitsimulation}{chapter.4}% 27
+\BOOKMARK [1][-]{section.4.2}{Automatic Prototyping In Model-Driven Game Developmentreyno2009automatic}{chapter.4}% 28
+\BOOKMARK [1][-]{section.4.3}{Super Mario MakerNIN}{chapter.4}% 29
+\BOOKMARK [1][-]{section.4.4}{Ultimate Chicken HorseCEG}{chapter.4}% 30
+\BOOKMARK [0][-]{chapter.5}{Limitations and Future Work}{}% 31
+\BOOKMARK [1][-]{section.5.1}{Positioning of GameObjects}{chapter.5}% 32
+\BOOKMARK [1][-]{section.5.2}{Simulation to Model}{chapter.5}% 33
+\BOOKMARK [1][-]{section.5.3}{Parallelizing \(2 Player\)}{chapter.5}% 34
+\BOOKMARK [1][-]{section.5.4}{FreeShape and Rotation of Objects}{chapter.5}% 35
+\BOOKMARK [0][-]{chapter.6}{Conclusion}{}% 36
+\BOOKMARK [0][-]{chapter.7}{Implementierung}{}% 37
+\BOOKMARK [0][-]{chapter*.4}{Bibliography}{}% 38

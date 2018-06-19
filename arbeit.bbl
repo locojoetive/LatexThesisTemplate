@@ -1,0 +1,67 @@
+\begin{thebibliography}{10}
+
+\bibitem{AtkinsonG16}
+Colin Atkinson and Ralph Gerbig.
+\newblock Flexible deep modeling with melanee.
+\newblock In Stefanie Betz~Ulrich Reimer, editor, {\em Modellierung 2016, 2.-4.
+  M\"{a}rz 2016, Karlsruhe - Workshopband}, volume 255 of {\em Modellierung
+  2016}, pages 117--122, Bonn, 2016. Gesellschaft f\"{u}r Informatik.
+
+\bibitem{exe2015}
+Colin Atkinson, Ralph Gerbig, and Noah Metzger.
+\newblock On the execution of deep models.
+\newblock In Tanja Mayerhofer, Philip Langer, Ed~Seidewitz, and Jeff Gray,
+  editors, {\em Proceedings of the 1st International Workshop on Executable
+  Modeling}, volume 1560 of {\em EXE 2015}, pages 28--33. CEUR Workshop
+  Proceedings, 2015.
+
+\bibitem{Blow:2004:GDH:971564.971590}
+Jonathan Blow.
+\newblock Game development: Harder than you think.
+\newblock {\em Queue}, 1(10):28--37, February 2004.
+
+\bibitem{SOC}
+Eli Braginskiy.
+\newblock {J}ava and {C}\# sockets, 2011.
+
+\bibitem{CEG}
+Clever~Endeavour Games.
+\newblock {U}ltimate {C}hicken {H}orse, 2016.
+
+\bibitem{MEL}
+Ralph Gerbig.
+\newblock {A}bout {M}elanee, 2015.
+
+\bibitem{Noah}
+Noah Metzger.
+\newblock Die implementierung von geowars, eine deep-model-basierte
+  echtzeitsimulation.
+\newblock Bachelor thesis, Chair of Software Engineering, Universität
+  Mannheim, 2015.
+
+\bibitem{NIN}
+Nintendo.
+\newblock {S}uper {M}ario {M}aker, 2016.
+
+\bibitem{reyno2009automatic}
+Emanuel~Montero Reyno and Jos{\'e}~{\'A} Cars{\'\i}~Cubel.
+\newblock Automatic prototyping in model-driven game development.
+\newblock {\em Computers in Entertainment (CIE)}, 7(2):29, 2009.
+
+\bibitem{UNI}
+Unity Technologies.
+\newblock {A}nimation {S}ystem {O}verview, 2016.
+
+\bibitem{voelter2007product}
+Markus Voelter and Iris Groher.
+\newblock Product line implementation using aspect-oriented and model-driven
+  software development.
+\newblock In {\em Software Product Line Conference, 2007. SPLC 2007. 11th
+  International}, pages 233--242. IEEE, 2007.
+
+\bibitem{whittle2014state}
+Jon Whittle, John Hutchinson, and Mark Rouncefield.
+\newblock The state of practice in model-driven engineering.
+\newblock {\em IEEE software}, 31(3):79--85, 2014.
+
+\end{thebibliography}
